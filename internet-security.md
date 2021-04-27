@@ -52,7 +52,12 @@
    <p> A passive attack is a network attack in which a system is monitored and sometimes scanned for open ports and vulnerabilities. The purpose is solely to gain information about the target and no data is changed on the target. ... The intruders can then use this information to facilitate covert entry to a network or system.</p>
    <p>An “active threat” is defined as any incident which by its deliberate nature creates an immediate threat or presents an imminent danger to the campus communit</p><br>
    <h2>Types of Malware</h2>
-   <h3>Trojan</h3>
+  <h3>Worm</h3>
+  <p>A computer worm is a type of malware that spreads copies of itself from computer to computer. A worm can replicate itself without any human interaction, and it does not need to attach itself to a software program in order to cause damage</p>
+  <p><strong>How do computer worms work?</strong><p>
+  <p>Worms can be transmitted via software vulnerabilities. Or computer worms could arrive as attachments in spam emails or instant messages (IMs). Once opened, these files could provide a link to a malicious website or automatically download the computer worm. Once it’s installed, the worm silently goes to work and infects the machine without the user’s knowledge.</p>
+  <p>Worms can modify and delete files, and they can even inject additional malicious software onto a computer. Sometimes a computer worm’s purpose is only to make copies of itself over and over — depleting system resources, such as hard drive space or bandwidth, by overloading a shared network. In addition to wreaking havoc on a computer’s resources, worms can also steal data, install a backdoor, and allow a hacker to gain control over a computer and its system settings.</p>
+  <h3>Trojan</h3>
     <p> A Trojan horse or Trojan is a type of malware that is often disguised as legitimate software. Trojans can be employed by cyber-thieves and hackers trying to gain access to users' systems. Users are typically tricked by some form of social engineering into loading and executing Trojans on their systems. Once activated, Trojans can enable cyber-criminals to spy on you, steal your sensitive data, and gain backdoor access to your system.</p>
 <p><strong>How to protect against trojans?</strong></p>    
   <p>  By installing effective anti-malware software, you can defend your devices – including PCs, laptops, Macs, tablets and smartphones – against Trojans. A rigorous anti-malware solution – such as Kaspersky Anti-Virus – will detect and prevent Trojan attacks on your PC, while Kaspersky Mobile Security can deliver world-class virus protection for Android smartphones. Kaspersky Lab has anti-malware products that defend the following devices</p>
