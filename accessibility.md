@@ -7,7 +7,7 @@
   <body>
     <style>
       body {
-        background-color: rgb(107, 189, 100);
+        background-color: rgb(255, 234, 0);
         font-size: 17px;
         font-family: sans-serif;
         margin:4em;
@@ -19,7 +19,7 @@
         text-decoration: underline overline blue;
       }
       h2 {
-        color:rgb(240,150,10);
+        color:rgb(41, 35, 219);
         font-weight: 450;
         font-family: cursive;
         font-size: 2.2em;
@@ -27,12 +27,13 @@
         letter-spacing: 1.5px;
       }
       h3 {
-        color: rgb(240,150,10);
+        color: rgb(12, 31, 240);
         font-variant: small-caps;
         font-family: cursive;
         font-size: 2.2em;
         text-indet: 8mm;
         font-weight: 550;
+      }
         
         p {
           font-weight: normal;
@@ -65,51 +66,51 @@
         </ol>
         <ul>
         <li> <strong> Priority 1 </strong> -  Web developers must satisfy these requirements, otherwise it will be
-impossible for one or more groups to access the Web content. Conformance to this
-level is described as A.
-        <li> <strong> Priority 2 </strong> - Web developers should satisfy these requirements, otherwise some
+impossible for one or more groups to access the Web content. Conformance to this level is described as A.</li>
+        <li> <strong> Priority 2 </strong> - Web developers should satisfy these requirements, otherwise some</li>
 groups will find it difficult to access the Web content. Conformance to this level is
 described as AA or Double-A.
         <li> <strong> Priority 3 </strong> - Web developers may satisfy these requirements to make it easier for
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
-        </ul>
+        </li>
+       </ul>
         <h3>Web Content Accesibility Guidelines 2.0</h3>
         <p>The <strong>WCAG 2.0</strong> was a W3C recommendation published on the 11th December in 2008. It is made by twelve guidelines which follow four principles a
         The W3C's techniques for WCAG 2.0 provides guidance for web content authors and evaluators on meeting WCAG 2.0 success criteria.
-    <p><strong>The principles for WCAG 2.0 are:</strong> </p> <br>
-    <p><strong>Perceivable</strong> </p> <br>
-        <p><strong>Information and user interface components have to be presentable to user in ways they can perceive.</p>
+    <p><strong>The principles for WCAG 2.0 are:</strong> </p> 
+    <p><strong>Perceivable</strong> </p> 
+        <p><strong>Information and user interface components have to be presentable to user in ways they can perceive.</strong> </p>
         <ul>
-        <li> <underline> Guideline 1.1</underline>: Provide text alternatives for any non-text content so that it can be
+        <li>  Guideline 1.1: Provide text alternatives for any non-text content so that it can be
 changed into other forms people need, such as large print, braille, speech, symbols or
 simpler language.
-        <li> <underline> Guideline 1.2</underline>:Time-based media: Provide alternatives for time-based media
-        <li> <underline> Guideline 1.3</underline>: Create content that can be presented in different ways (for example
+        <li>  Guideline 1.2>:Time-based media: Provide alternatives for time-based media
+        <li>  Guideline 1.3: Create content that can be presented in different ways (for example
 simpler layout) without losing information or structure.
-        <li> <underline> Guideline 1.4</underline>:Make it easier for users to see and hear content including separating foreground from brackground.
+        <li>  Guideline 1.4:Make it easier for users to see and hear content including separating foreground from brackground.
         </ul>
-    <p><strong>Operable</strong> </p> <br>
+    <p><strong>Operable</strong> </p> 
     <p>User interface components and navigation must be operable. </p>
         <ul>
-        <li> <underline> Guideline 2.1</underline>:Make all functionality available from a keyboard.
-        <li> <underline> Guideline 2.2</underline>:Provide users enough time to read and use content.
-        <li> <underline> Guideline 2.3</underline>:Do not design content ina way that is known to cause seizures.
-        <li> <underline> Guideline 2.4</underline>:Provide ways to help users navigate, find content, and determine where they are.
+        <li>  Guideline 2.1:Make all functionality available from a keyboard.
+        <li>  Guideline 2.2:Provide users enough time to read and use content.
+        <li>  Guideline 2.3Do not design content ina way that is known to cause seizures.
+        <li>  Guideline 2.4:Provide ways to help users navigate, find content, and determine where they are.
         </ul>
-    <p><strong>Understandable</strong> </p> <br>
+    <p><strong>Understandable</strong> </p> 
         <p>Information and the operation of user interface must be understandable.</p>
         <ul>
-        <li> <underline> Guideline 3.1</underline>:Make text content readable and underestandable
-        <li> <underline> Guideline 3.2</underline>:Make web pages appear and operate inpredictable ways.
-        <li> <underline> Guideline 3.3</underline>:Help users avoid and correct mistakes.
+        <li>  Guideline 3.1>:Make text content readable and underestandable
+        <li>  Guideline 3.2:Make web pages appear and operate inpredictable ways.
+        <li>  Guideline 3.3:Help users avoid and correct mistakes.
         </ul>
-    <p><strong>Robust</strong> </p> <br>
+    <p><strong>Robust</strong> </p> 
         <p>Content must be robust enough so that it can be interpreted reliably by a wide variety of user agents, including assistive technoligies.</p>
         <ul>
-        <li> <underline> Guideline 4.1</underline>:Maximize compatibility with current and future user agents, including assistive technologies.
+        <li>  Guideline 4.1>:Maximize compatibility with current and future user agents, including assistive technologies.</li>
         </ul>
-        <p><strong>Criticism of <em>WAI</em> guidelines.</p>  
+        <p><strong>Criticism of <em>WAI</em> guidelines.</strong></p>  
         <p> There has been criticism of the W3C process, claiming that it does not sufficiently put the
         user at the heart of the process. There was a formal objection to WCAG's original claim that
         WCAG 2.0 will address requirements for people with learning disabilities and cognitive
@@ -121,4 +122,5 @@ simpler layout) without losing information or structure.
         new guidelines difficult to navigate and understand, and other argued failings.
         In Spain, UNE 139803 is the norm entrusted to regulate web accessibility. This standard is
         based on Web Content Accessibility Guidelines 1.0. </p> 
-  </body>
+ </body>
+</html>
