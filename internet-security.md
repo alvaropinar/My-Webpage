@@ -89,7 +89,8 @@ There are also other reputable anti-spyware removal tools. Some of them work onl
   <p>A Digital Certificate is an electronic "password" that allows a person, organizaion to exchange data securely over the Internet using the public key infrastructure (PKI). Digital Certificate is also known as a public key certificate or identity certificate.</p>
   <h3>Certificate authorities</h3>
   <p>or Certificate Authorities / CAs, issue Digital Certificates. Digital Certificates are verifiable small data files that contain identity credentials to help websites, people, and devices represent their authentic online identity (authentic because the CA has verified the identity). CAs play a critical role in how the Internet operates and how transparent, trusted transactions can take place online. CAs issue millions of Digital Certificates each year</p>
-  
+  </body>
+  </html>
   
   
   
