@@ -7,4 +7,4 @@
  <body>
   <h1>INDEX</h1>
   <h2>Here are the links for the information</h2>
-  <a href="https://alvaropinar.github.io/Index.HTML1/accessibilty-standarts.html">What are accessibility standarts</a> <br>
+  <a href="accesibility.md"> What are accessibility standarts</a> 
