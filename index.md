@@ -8,3 +8,4 @@
   <h1>INDEX</h1>
   <h2>Here are the links for the information</h2>
   <a href="accessibility.html"> What are accessibility standarts</a> 
+  <a href=".html"> What are accessibility standarts</a> 
