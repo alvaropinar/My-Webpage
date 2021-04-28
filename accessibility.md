@@ -7,11 +7,9 @@
   <body>
     <style>
       body {
-        background-color: rgb(255, 234, 0);
         font-size: 17px;
         font-family: sans-serif;
         margin:4em;
-        
       }
       h1 {
         font-weight: 550;
@@ -33,14 +31,12 @@
         font-size: 2.2em;
         text-indet: 8mm;
         font-weight: 550;
-      }
-        
+      } 
         p {
           font-weight: normal;
           font-size: 20px;
           font-family: sans-serif;
-          text-indet: 6mm;
-                    
+          text-indet: 6mm;          
         }
     </style>
     <h1>Web Content Accessibility Guidelines</h1>
