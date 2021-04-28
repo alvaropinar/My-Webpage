@@ -14,7 +14,7 @@
       h1 {
         font-weight: 550;
         font-size:2.4em; 
-        text-decoration: underline overline green;
+       color: rgb(43, 112, 29)
       }
       h2 {
         color:rgb(43, 112, 29);
@@ -39,7 +39,7 @@
           text-indet: 6mm;          
         }
     </style>
-    <h1>Web Content Accessibility Guidelines</h1>
+    <h1><strong>Web Content Accessibility Guidelines</strong></h1>
     <p>The Web Content Accessibility Guidelines <strong>(WCAG)</strong> are a part of the web accesibility guidelines published by the Web Accessibility Initiative </p>
     <h2>Web Content Accessibility Guidelines 1.0 </h2>
     <p>The W3C proyect was the first achivement made by the WCAG. It date backs to the 5th May 1999. The W3C is an international commun ity that includes a full-time 
