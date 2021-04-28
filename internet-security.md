@@ -7,19 +7,17 @@
   <body>
     <style>
       body {
-        background-color: rgb(255, 234, 0);
         font-size: 17px;
         font-family: sans-serif;
         margin:4em;
-        
       }
       h1 {
         font-weight: 550;
         font-size:2.4em; 
-        text-decoration: underline overline blue;
+        color:rgb(43, 112, 29);
       }
       h2 {
-        color:rgb(41, 35, 219);
+        color:rgb(43, 112, 29);
         font-weight: 450;
         font-family: cursive;
         font-size: 2.2em;
@@ -27,23 +25,21 @@
         letter-spacing: 1.5px;
       }
       h3 {
-        color: rgb(12, 31, 240);
+        color: rgb(43, 112, 29);
         font-variant: small-caps;
         font-family: cursive;
         font-size: 2.2em;
         text-indet: 8mm;
         font-weight: 550;
       }
-        
         p {
           font-weight: normal;
           font-size: 20px;
           font-family: sans-serif;
           text-indet: 6mm;
-                    
-        }
+         }
     </style>
-    <h1>Types of Internet Security now a days</h1>
+    <h1><strong>Types of Internet Security now a days</strong></h1>
     <h2>Active and passive security threats</h2>
     <p>Active and Passive Attacks are security attacks. In Active attack, an attacker tries to modify the content of the messages. Whereas in Passive attack, an attacker observes the messages, copy them and may use them for malicious purposes. ... Passive Attack is dangerous for Confidentiality</p>
   <h3>Active Attack</h3>
