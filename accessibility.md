@@ -14,10 +14,10 @@
       h1 {
         font-weight: 550;
         font-size:2.4em; 
-       color: rgb(43, 112, 29)
+       color: rgb(230, 166, 5)
       }
       h2 {
-        color:rgb(43, 112, 29);
+        color:rgb(230, 166, 5);
         font-weight: 450;
         font-family: cursive;
         font-size: 2.2em;
@@ -25,7 +25,7 @@
         letter-spacing: 1.5px;
       }
       h3 {
-        color: rgb(43, 112, 29);
+        color: rgb(230, 166, 5);
         font-variant: small-caps;
         font-family: cursive;
         font-size: 2.2em;
