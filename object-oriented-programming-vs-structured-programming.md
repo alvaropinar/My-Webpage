@@ -38,6 +38,7 @@
           font-family: sans-serif;
           text-indet: 6mm;
          }
+    </style>
       <h1>Objected-Oriented Programming vs Structured Programming</h1>
       <h2>What is Objected-Oriented Programming</h2>
       <p>Object-oriented programming (OOP) is a computer programming model that organizes software design around data, or objects, rather than functions and logic. An object can be defined as a data field that has unique attributes and behavior.</p>
