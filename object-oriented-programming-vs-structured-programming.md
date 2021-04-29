@@ -49,7 +49,7 @@
       <h2>What is the difference between this 2 types of programming</h2>
         <p>The main difference between structured and object oriented programming is that structured programming allows developing a program using a set of modules or functions, while object oriented programming allows constructing a program using a set of objects and their interactions.</p>
       </body>
-
+    </html>
         
         
         
