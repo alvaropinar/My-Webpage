@@ -48,6 +48,7 @@
         <p>Structured programming is a programming paradigm aimed at improving the clarity, quality, and development time of a computer program by making extensive use of the structured control flow constructs of selection (if/then/else) and repetition (while and for), block structures, and subroutines in contrast to using simple tests and jumps such as the go to statement, which can lead to “spaghetti code” that is potentially difficult to follow and maintain.</p>
       <h2>What is the difference between this 2 types of programming</h2>
         <p>The main difference between structured and object oriented programming is that structured programming allows developing a program using a set of modules or functions, while object oriented programming allows constructing a program using a set of objects and their interactions.</p>
+      </body>
 
         
         
