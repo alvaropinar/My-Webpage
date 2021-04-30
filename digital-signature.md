@@ -51,7 +51,7 @@
     <li>•	Step 4: Login to DocuSign </li>
     <li>•	Step 5: New > Sign a Document  </li>
     <li>•	Step 6: Sign  </li>
-    <p>Digital signatures in Hindi or any other language offer much higher security and is something you can have for your personal and professional use. This type of signature uses encryption technology that keeps the identity of a person secure</p>
+    <p>Digital signatures in Hindi or any other language offer much higher security and is something you can have for your personal and professional use. This type of signature uses encryption technology that keeps the identity of a person secure.</p>
     <p>Let’s take the example of DocuSign and discover what to do:</p>
     <h3>•	Step 1: Pick a Document</h3>
     <p>If you are a signer, pick a document that needs to be signed from any device.</p>
@@ -65,7 +65,7 @@
     <p>Select New > Sign a Document and upload the document that is shared by the signer electronically</p>
     <h3>•	Step 6: Sign</h3>
     <p>Select ‘Sign’ to put your signature on the document. You can either choose from pre-set templates or draw on your own.</p>
-    <img src=https://images.app.goo.gl/hnRzYMvmULAkkyUW7">
+    <img src=https://images.app.goo.gl/hnRzYMvmULAkkyUW7"/>
     
     
     
