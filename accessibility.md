@@ -111,3 +111,4 @@ simpler layout) without losing information or structure.
         based on Web Content Accessibility Guidelines 1.0. </p> 
  </body>
 </html>
+<!DOCTYPE html/>
