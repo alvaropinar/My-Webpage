@@ -61,7 +61,7 @@
         <li> Guideline 14:Ensure that documents are clear and simple
         </ol>
         
-        <li> <strong> Priority 1 </strong> -  Web developers must satisfy these requirements, otherwise it will be
+<li> <strong> Priority 1 </strong> -  Web developers must satisfy these requirements, otherwise it will be
 impossible for one or more groups to access the Web content. Conformance to this level is described as A.</li>
         <li> <strong> Priority 2 </strong> - Web developers should satisfy these requirements, otherwise some</li>
 groups will find it difficult to access the Web content. Conformance to this level is
@@ -69,7 +69,7 @@ described as AA or Double-A.
         <li> <strong> Priority 3 </strong> - Web developers may satisfy these requirements to make it easier for
 some groups to access the Web content. Conformance to this level is described
 as AAA or Triple-A.
-        </li>
+        </li><br>
        <h3>Web Content Accesibility Guidelines 2.0</h3>
         <p>The <strong>WCAG 2.0</strong> was a W3C recommendation published on the 11th December in 2008. It is made by twelve guidelines which follow four principles a
         The W3C's techniques for WCAG 2.0 provides guidance for web content authors and evaluators on meeting WCAG 2.0 success criteria.
