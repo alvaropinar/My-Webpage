@@ -40,7 +40,7 @@
          }
     </style>
 <h1><strong>Digital Signature</strong></h1>
-    <h2>hat is the Purpose of a Digital Signature?</h2>
+    <h2>What is the Purpose of a Digital Signature?</h2>
     <p>Digital signature is an indispensable part of electronic commerce, where customers, vendors, and suppliers can sign important documents electronically. Not just e-commerce, but the digital signature is widely used in authentication schemes across different sectors.</p>
     <p>Digital signature authenticates the identity of individuals sending any document digitally. E-signatures bring with them legal validity and also ensures security.</p>
     <p>Digital signatures are among the most important components of an e-signature program and can drive security and legal validity. It is also important for record management, and people across different sectors rely on e-signature.</p>
@@ -61,11 +61,11 @@
     <p>Click on the ‘Signature’ Tag, and select any field like company name, phone number, etc. and send.</p>
     <h3>•	Step 4: Login to DocuSign</h3>
     <p>The signee has to login to DocuSign</p>
-    <h3>•	Step 5: New > Sign a Document</p>
+    <h3>•	Step 5: New > Sign a Document</h3>
     <p>Select New > Sign a Document and upload the document that is shared by the signer electronically</p>
     <h3>•	Step 6: Sign</h3>
     <p>Select ‘Sign’ to put your signature on the document. You can either choose from pre-set templates or draw on your own.</p>
-    <img src=https://images.app.goo.gl/MwFcc1ETuSG4JJow6>
+    <img src=https://images.app.goo.gl/hnRzYMvmULAkkyUW7">
     
     
     
