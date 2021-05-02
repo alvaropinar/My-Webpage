@@ -65,7 +65,7 @@
     <p>Select New > Sign a Document and upload the document that is shared by the signer electronically</p>
     <h3>•	Step 6: Sign</h3>
     <p>Select ‘Sign’ to put your signature on the document. You can either choose from pre-set templates or draw on your own.</p>
-    <img src=https://images.app.goo.gl/hnRzYMvmULAkkyUW7"/>
+    <img src="https://images.app.goo.gl/hnRzYMvmULAkkyUW7"/>
     
     
     
